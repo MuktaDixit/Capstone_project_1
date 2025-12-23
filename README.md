@@ -1,4 +1,4 @@
-# Loan Navigator Agent Suite
+# Team1_Capstone_1_Loan Navigator Agent Suite
 
 ## Overview
 This Jupyter Notebook implements a multi-agent AI system to automate loan-related customer support queries for a fintech use case. The system routes user queries to specialized agents for database lookup, policy retrieval, and EMI calculations.
